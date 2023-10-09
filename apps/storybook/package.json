@@ -20,6 +20,7 @@
   },
   "devDependencies": {
     "@babel/preset-env": "^7.22.20",
+    "@babel/preset-flow": "^7.22.15",
     "@babel/preset-react": "^7.22.15",
     "@storybook/addon-essentials": "^7.4.6",
     "@storybook/addon-interactions": "^7.4.6",
@@ -27,9 +28,11 @@
     "@storybook/addon-onboarding": "^1.0.8",
     "@storybook/addon-styling-webpack": "^0.0.5",
     "@storybook/blocks": "^7.4.6",
+    "@storybook/nextjs": "^7.4.6",
     "@storybook/react": "^7.4.6",
-    "@storybook/react-webpack5": "^7.4.6",
+    "@storybook/react-webpack5": "7.4.5",
     "@storybook/testing-library": "^0.2.2",
+    "eslint-plugin-storybook": "^0.6.15",
     "prop-types": "^15.8.1",
     "storybook": "^7.4.6",
     "typescript": "^5.2.2"
